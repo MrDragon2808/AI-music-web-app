@@ -1,0 +1,60 @@
+#naruto
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: navy;
+    color: crimson;
+}
+
+#sasuke
+{
+    font-size: 15px;
+    color: gold;
+}
+body
+{
+    background-size: cover;
+}
+#kakashi
+{
+    float:left;
+}
+#garra
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+#madara
+{
+    float:right;
+}
+#obito
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+#jiraya
+{
+    color: gray;
+    background-color: cyan;
+    width: 130px;
+    font-size: 25px;
+    margin-top: -17px;
+}   
+canvas
+{
+border: 5px solid navy;
+border-radius: 20px;
+
+}
